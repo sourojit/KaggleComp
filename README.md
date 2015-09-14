@@ -1,0 +1,1 @@
+The Problem Statement is very simple. By seeing some example data about people who survived and who died in Titanic,we need to predict that given a new person's data , whether that person will be saved or not.
